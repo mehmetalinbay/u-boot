@@ -12,7 +12,7 @@ Download U-Boot
   cd ~/workspace
   mkdir boot
   cd boot
-  git clone https://github.com/mehmetalinbay/u-boot.git
+  git clone https://github.com/vf-tech/u-boot.git
 ```
 Compiling
 =========
