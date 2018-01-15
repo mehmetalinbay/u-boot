@@ -36,6 +36,8 @@
 /u-boot.ubl
 /u-boot-lpc.hex
 
+/stm32429-disco
+
 #
 # Generated files
 #
